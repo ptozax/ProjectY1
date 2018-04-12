@@ -26,7 +26,7 @@ class engin {
        
        do{
        
-       System.out.print("entr ID: ");
+       System.out.print("enter ID: ");
        id=kbw.nextLine();
        
        System.out.print("enter password: ");
@@ -43,7 +43,7 @@ class engin {
    
    
    
-   }while(count>=0);
+   }while(count>0);
    
    
    
